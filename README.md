@@ -6,29 +6,29 @@
 
 ## Навчальні гілки
 
-Кожен етап має окрему Git-гілку з матеріалами та практикою.
+Кожен етап має окрему папку з матеріалами та практикою. Усі етапи доступні в провіднику одночасно.
 
-### 1. [Основи розробки](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/01-development-foundations)
+### 1. [Основи розробки](01-development-foundations)
 
-### 2. [HTML та CSS](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/02-html-css)
+### 2. [HTML та CSS](02-html-css)
 
-### 3. [JavaScript](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/03-javascript)
+### 3. [JavaScript](03-javascript)
 
-### 4. [TypeScript](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/04-typescript)
+### 4. [TypeScript](04-typescript)
 
-### 5. [React frontend](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/05-react-frontend)
+### 5. [React frontend](05-react-frontend)
 
-### 6. [Node.js та backend](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/06-nodejs-backend)
+### 6. [Node.js та backend](06-nodejs-backend)
 
-### 7. [Бази даних](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/07-databases)
+### 7. [Бази даних](07-databases)
 
-### 8. [Авторизація та безпека](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/08-authentication-security)
+### 8. [Авторизація та безпека](08-authentication-security)
 
-### 9. [Тестування](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/09-testing)
+### 9. [Тестування](09-testing)
 
-### 10. [Деплой і DevOps](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/10-deployment-devops)
+### 10. [Деплой і DevOps](10-deployment-devops)
 
-### 11. [Портфоліо](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/11-portfolio)
+### 11. [Портфоліо](11-portfolio)
 
 ---
 
