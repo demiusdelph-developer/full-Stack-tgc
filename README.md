@@ -105,10 +105,10 @@ New-Item project -ItemType Directory  # створення папки
 
 Практика:
 
-1. Створіть папку `fullstack-learning`.
-2. У ній створіть папку `foundations`.
-3. Створіть файл `notes.md`.
-4. Відкрийте цю папку у VS Code командою `code .`.
+1. Відкрийте клон поточного репозиторію `full-Stack-tgc` у VS Code командою `code .`.
+2. Створіть у ньому папку `practice\foundations`.
+3. Створіть файл `practice\foundations\notes.md`.
+4. Додайте до нього короткі нотатки про DNS, HTTP і Git.
 
 ## 4. Git
 
@@ -124,12 +124,13 @@ git config --global user.email "ваш-email@example.com"
 Базовий робочий цикл:
 
 ```powershell
-git init
 git status
 git add .
 git commit -m "docs: add first notes"
 git log --oneline
 ```
+
+Поточний репозиторій уже створений і прив'язаний до GitHub, тому команда `git init` тут не потрібна.
 
 Створення окремої гілки:
 
@@ -144,33 +145,34 @@ git branch
 
 GitHub зберігає Git-репозиторії віддалено та дозволяє працювати над кодом разом.
 
+Для навчання і практики використовуйте цей репозиторій `full-Stack-tgc`: створювати інший не потрібно. У ньому зберігатимуться матеріали уроків, ваші нотатки та практичні завдання.
+
 1. Створіть акаунт на [GitHub](https://github.com/), якщо його ще немає.
-2. Створіть порожній репозиторій `fullstack-learning`.
-3. Прив'яжіть локальний репозиторій і надішліть перший commit:
+2. Клонуйте цей репозиторій на свій комп'ютер.
+3. Для кожного завдання створюйте окрему гілку від потрібного навчального етапу.
+4. Публікуйте гілку та створюйте pull request, коли робота готова.
 
 ```powershell
-git remote add origin https://github.com/USERNAME/fullstack-learning.git
-git branch -M main
-git push -u origin main
+git switch -c practice/dns-notes
+git add practice\foundations\notes.md
+git commit -m "docs: add DNS notes"
+git push -u origin practice/dns-notes
 ```
-
-Для кожної нової функції створюйте гілку, публікуйте її через `git push -u origin NAME`, а потім створюйте pull request.
 
 ## Практичне завдання
 
-Створіть репозиторій `web-foundations` із такою структурою:
+У поточному репозиторії створіть таку структуру:
 
 ```text
-web-foundations/
-├── README.md
-├── notes/
-│   ├── web-basics.md
-│   ├── terminal.md
-│   └── git.md
-└── .gitignore
+full-Stack-tgc/
+└── practice/
+    └── foundations/
+        ├── web-basics.md
+        ├── terminal.md
+        └── git.md
 ```
 
-У `README.md` коротко напишіть, що ви вивчили. Зробіть щонайменше три логічні commits:
+У цих трьох файлах коротко зафіксуйте, що ви вивчили. Зробіть щонайменше три логічні commits:
 
 1. `docs: add web request notes`
 2. `docs: add terminal practice notes`
@@ -183,7 +185,8 @@ web-foundations/
 - [ ] Я вмію переходити між папками й створювати файли в терміналі.
 - [ ] Я вмію створити Git-репозиторій, commit і гілку.
 - [ ] Я вмію відправити проєкт на GitHub.
-- [ ] У мене є опублікований репозиторій із notes і зрозумілим README.
+- [ ] Я додав нотатки та практичні файли в поточний репозиторій.
+- [ ] Я опублікував власну гілку з виконаною практикою.
 
 ## Навігація за етапами
 
