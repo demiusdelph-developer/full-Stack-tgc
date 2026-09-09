@@ -1,6 +1,30 @@
 # Full Stack Learning Roadmap
 
-Чіткий план вивчення Full Stack розробки з нуля. Рухайтесь послідовно: від фундаменту вебу до створення, тестування й деплою повноцінних застосунків.
+Цей репозиторій містить практичну дорожню карту для вивчення Full Stack розробки з нуля. Кожен етап винесений в окрему гілку: переходьте за посиланням, вивчайте тему та додавайте власні практичні проєкти.
+
+## Навчальні гілки
+
+| Етап | Тема | Гілка |
+| --- | --- | --- |
+| 1 | Основи розробки | [01-development-foundations](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/01-development-foundations) |
+| 2 | HTML та CSS | [02-html-css](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/02-html-css) |
+| 3 | JavaScript | [03-javascript](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/03-javascript) |
+| 4 | TypeScript | [04-typescript](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/04-typescript) |
+| 5 | React frontend | [05-react-frontend](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/05-react-frontend) |
+| 6 | Node.js та backend | [06-nodejs-backend](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/06-nodejs-backend) |
+| 7 | Бази даних | [07-databases](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/07-databases) |
+| 8 | Авторизація та безпека | [08-authentication-security](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/08-authentication-security) |
+| 9 | Тестування | [09-testing](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/09-testing) |
+| 10 | Деплой і DevOps | [10-deployment-devops](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/10-deployment-devops) |
+| 11 | Портфоліо | [11-portfolio](https://github.com/demiusdelph-developer/full-Stack-tgc/tree/11-portfolio) |
+
+## Як навчатись
+
+1. Рухайтесь за етапами від першого до одинадцятого.
+2. Приділяйте близько 70% часу практиці та 30% теорії.
+3. Завершуйте кожен етап готовою функцією або невеликим проєктом.
+
+## Повний план
 
 ## Тривалість навчання
 
