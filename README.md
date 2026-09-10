@@ -22,11 +22,11 @@ GitHub показує SVG у README як зображення, тому пере
 
 ### 3. [Sass](sass)
 
-### 4. [Tailwind CSS](tailwind)
+### 4. [JavaScript](03-javascript)
 
-### 5. [JavaScript](03-javascript)
+### 5. [TypeScript](04-typescript)
 
-### 6. [TypeScript](04-typescript)
+### 6. [Tailwind CSS](tailwind)
 
 ### 7. [React frontend](05-react-frontend)
 
@@ -62,9 +62,9 @@ GitHub показує SVG у README як зображення, тому пере
 
 ### HTML та CSS
 
-**Тривалість:** 5-7 тижнів
+**Тривалість:** 4-6 тижнів
 
-**Вивчити:** семантичний HTML, форми, CSS selectors, box model, Flexbox, Grid, responsive design, accessibility; Sass для модульних стилів; Tailwind CSS для utility-first інтерфейсів.
+**Вивчити:** семантичний HTML, форми, CSS selectors, box model, Flexbox, Grid, responsive design і accessibility.
 
 **Результат:** адаптивний сайт-візитка та лендінг.
 
@@ -75,14 +75,6 @@ GitHub показує SVG у README як зображення, тому пере
 **Вивчити:** SCSS, змінні, вкладені правила, mixins, `@use` і структуру стилів.
 
 **Результат:** CSS-проєкт, організований у модулі SCSS.
-
-### Tailwind CSS
-
-**Тривалість:** 1-2 тижні
-
-**Вивчити:** utility-класи, адаптивні модифікатори, states, теми та доступні компоненти.
-
-**Результат:** адаптивний інтерфейс, створений Tailwind CSS.
 
 ### JavaScript
 
@@ -99,6 +91,14 @@ GitHub показує SVG у README як зображення, тому пере
 **Вивчити:** типи, interfaces, generics, union types, типізацію API та компонентів.
 
 **Результат:** перепис одного JavaScript-проєкту на TypeScript.
+
+### Tailwind CSS
+
+**Тривалість:** 1-2 тижні
+
+**Вивчити:** utility-класи, адаптивні модифікатори, states, теми та доступні компоненти.
+
+**Результат:** адаптивний інтерфейс, створений Tailwind CSS.
 
 ### React frontend
 
