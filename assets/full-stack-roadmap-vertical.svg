@@ -10,9 +10,20 @@
     .step-light { font: 700 22px sans-serif; fill: #ffffff; }
     .detail-light { font: 400 16px sans-serif; fill: #d9e3ed; }
     .line { stroke: #b7c8d7; stroke-width: 4; }
+    g > rect { fill: #ffffff; stroke: #c9d6e2; }
+    g > rect.final-card { fill: #16263d; stroke: #16263d; }
+    @media (prefers-color-scheme: dark) {
+      .canvas { fill: #101922; }
+      .banner { fill: #123f42; }
+      .title, .step { fill: #f1f5f9; }
+      .subtitle, .detail { fill: #b7c8d7; }
+      .line { stroke: #4a6176; }
+      g > rect { fill: #1d2a38; stroke: #41566a; }
+      g > rect.final-card { fill: #0f2437; stroke: #34536b; }
+    }
   </style>
-  <rect width="860" height="1500" fill="#f7fafc"/>
-  <rect width="860" height="170" fill="#d9f3ed"/>
+  <rect class="canvas" width="860" height="1500" fill="#f7fafc"/>
+  <rect class="banner" width="860" height="170" fill="#d9f3ed"/>
   <text x="65" y="75" class="title">Full Stack Learning Roadmap</text>
   <text x="65" y="110" class="subtitle">Від першого HTTP-запиту до власного портфоліо</text>
   <line x1="115" y1="220" x2="115" y2="1360" class="line"/>
@@ -26,5 +37,5 @@
   <g transform="translate(65 995)"><circle cx="50" cy="50" r="31" fill="#dc2626"/><text x="50" y="57" text-anchor="middle" class="number">8</text><rect x="100" width="625" height="100" rx="8" fill="#fff" stroke="#c9d6e2"/><text x="130" y="41" class="step">Авторизація та безпека</text><text x="130" y="70" class="detail">JWT, cookies, roles, CORS · 3-4 тижні</text></g>
   <g transform="translate(65 1110)"><circle cx="50" cy="50" r="31" fill="#7c3aed"/><text x="50" y="57" text-anchor="middle" class="number">9</text><rect x="100" width="625" height="100" rx="8" fill="#fff" stroke="#c9d6e2"/><text x="130" y="41" class="step">Тестування</text><text x="130" y="70" class="detail">Unit, API, UI та E2E тести · 3-4 тижні</text></g>
   <g transform="translate(65 1225)"><circle cx="50" cy="50" r="31" fill="#475569"/><text x="50" y="57" text-anchor="middle" class="number">10</text><rect x="100" width="625" height="100" rx="8" fill="#fff" stroke="#c9d6e2"/><text x="130" y="41" class="step">Деплой і DevOps</text><text x="130" y="70" class="detail">Docker, CI/CD, хмарний деплой · 2-3 тижні</text></g>
-  <g transform="translate(65 1340)"><circle cx="50" cy="50" r="31" fill="#f59e0b"/><text x="50" y="57" text-anchor="middle" class="number">11</text><rect x="100" width="625" height="100" rx="8" fill="#16263d"/><text x="130" y="41" class="step-light">Портфоліо</text><text x="130" y="70" class="detail-light">2-3 якісні проєкти · 4-8 тижнів</text></g>
+  <g transform="translate(65 1340)"><circle cx="50" cy="50" r="31" fill="#f59e0b"/><text x="50" y="57" text-anchor="middle" class="number">11</text><rect class="final-card" x="100" width="625" height="100" rx="8" fill="#16263d"/><text x="130" y="41" class="step-light">Портфоліо</text><text x="130" y="70" class="detail-light">2-3 якісні проєкти · 4-8 тижнів</text></g>
 </svg>
