@@ -8,7 +8,9 @@
 
 ### Вертикальна версія
 
-![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)
+[![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)](assets/full-stack-roadmap-vertical.svg)
+
+Відкрийте карту окремо, щоб перейти з її етапу до відповідної папки.
 
 ## Навчальні гілки
 
@@ -56,9 +58,9 @@
 
 ### HTML та CSS
 
-**Тривалість:** 4-6 тижнів
+**Тривалість:** 5-7 тижнів
 
-**Вивчити:** семантичний HTML, форми, CSS selectors, box model, Flexbox, Grid, responsive design, accessibility.
+**Вивчити:** семантичний HTML, форми, CSS selectors, box model, Flexbox, Grid, responsive design, accessibility; Sass для модульних стилів; Tailwind CSS для utility-first інтерфейсів.
 
 **Результат:** адаптивний сайт-візитка та лендінг.
 
@@ -138,7 +140,7 @@
 
 ## Рекомендований стек
 
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, React Router, TanStack Query.
+**Frontend:** HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, React Router, TanStack Query.
 
 **Backend:** Node.js, Express або NestJS, REST API.
 
