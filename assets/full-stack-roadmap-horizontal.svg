@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="960" viewBox="0 0 1600 960" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960" role="img" aria-labelledby="title desc">
   <title id="title">Full Stack Learning Roadmap</title>
   <desc id="desc">An eleven-step visual learning path from development foundations to portfolio.</desc>
   <style>
@@ -11,66 +11,66 @@
     .connector { stroke: #9aabbc; stroke-width: 3; fill: none; }
   </style>
   <rect width="1600" height="960" fill="#f7fafc"/>
-  <path d="M0 0H1600V130C1320 190 1110 80 800 145C480 210 260 125 0 190Z" fill="#d9f3ed"/>
-  <text x="90" y="82" class="title">Full Stack Learning Roadmap</text>
-  <text x="90" y="112" class="subtitle">11 етапів від основ вебу до сильного портфоліо</text>
+  <path d="M0 0H1200V130C990 190 830 80 600 145C360 210 195 125 0 190Z" fill="#d9f3ed"/>
+  <text x="55" y="82" class="title">Full Stack Learning Roadmap</text>
+  <text x="55" y="112" class="subtitle">11 етапів від основ вебу до сильного портфоліо</text>
 
-  <path d="M230 270H305M505 270H580M780 270H855M1055 270H1130M1330 270V405H230V505H305M505 505H580M780 505H855M1055 505H1130M1330 505V640H230V740H305M505 740H580" class="connector"/>
+  <path d="M180 270H270M420 270H510M660 270H750M900 270H990M1140 270V405H180V505H270M420 505H510M660 505H750M900 505H990M1140 505V640H180V740H300M725 740H815" class="connector"/>
 
-  <g transform="translate(80 210)">
+  <g transform="translate(30 210)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#0f766e"/><text x="28" y="34" text-anchor="middle" class="number">1</text>
     <text x="20" y="75" class="step">Основи</text><text x="20" y="98" class="duration">2-3 тижні</text>
   </g>
-  <g transform="translate(355 210)">
+  <g transform="translate(270 210)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#ea580c"/><text x="28" y="34" text-anchor="middle" class="number">2</text>
     <text x="20" y="75" class="step">HTML + CSS</text><text x="20" y="98" class="duration">4-6 тижнів</text>
   </g>
-  <g transform="translate(630 210)">
+  <g transform="translate(510 210)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#eab308"/><text x="28" y="34" text-anchor="middle" class="number">3</text>
     <text x="20" y="75" class="step">JavaScript</text><text x="20" y="98" class="duration">8-10 тижнів</text>
   </g>
-  <g transform="translate(905 210)">
+  <g transform="translate(750 210)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#2563eb"/><text x="28" y="34" text-anchor="middle" class="number">4</text>
     <text x="20" y="75" class="step">TypeScript</text><text x="20" y="98" class="duration">2-3 тижні</text>
   </g>
-  <g transform="translate(1180 210)">
+  <g transform="translate(990 210)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#db2777"/><text x="28" y="34" text-anchor="middle" class="number">5</text>
     <text x="20" y="75" class="step">React</text><text x="20" y="98" class="duration">6-8 тижнів</text>
   </g>
-  <g transform="translate(80 445)">
+  <g transform="translate(30 445)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#16a34a"/><text x="28" y="34" text-anchor="middle" class="number">6</text>
     <text x="20" y="75" class="step">Node.js</text><text x="20" y="98" class="duration">6-8 тижнів</text>
   </g>
-  <g transform="translate(355 445)">
+  <g transform="translate(270 445)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#0891b2"/><text x="28" y="34" text-anchor="middle" class="number">7</text>
     <text x="20" y="75" class="step">Бази даних</text><text x="20" y="98" class="duration">4-5 тижнів</text>
   </g>
-  <g transform="translate(630 445)">
+  <g transform="translate(510 445)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#dc2626"/><text x="28" y="34" text-anchor="middle" class="number">8</text>
     <text x="20" y="75" class="step">Безпека</text><text x="20" y="98" class="duration">3-4 тижні</text>
   </g>
-  <g transform="translate(905 445)">
+  <g transform="translate(750 445)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#7c3aed"/><text x="28" y="34" text-anchor="middle" class="number">9</text>
     <text x="20" y="75" class="step">Тестування</text><text x="20" y="98" class="duration">3-4 тижні</text>
   </g>
-  <g transform="translate(1180 445)">
+  <g transform="translate(990 445)">
     <rect width="150" height="120" rx="8" fill="#ffffff" stroke="#c9d6e2"/>
     <circle cx="28" cy="28" r="18" fill="#475569"/><text x="28" y="34" text-anchor="middle" class="number">10</text>
     <text x="20" y="75" class="step">DevOps</text><text x="20" y="98" class="duration">2-3 тижні</text>
   </g>
-  <g transform="translate(355 680)">
+  <g transform="translate(300 680)">
     <rect width="425" height="120" rx="8" fill="#16263d"/>
     <circle cx="32" cy="30" r="18" fill="#f59e0b"/><text x="32" y="36" text-anchor="middle" class="number">11</text>
     <text x="28" y="76" class="label">Портфоліо</text><text x="28" y="100" class="label">4-8 тижнів · 2-3 готові проєкти</text>
   </g>
-  <text x="90" y="885" class="subtitle">Навчайтесь послідовно: теорія, практика, готовий результат.</text>
+  <text x="55" y="885" class="subtitle">Навчайтесь послідовно: теорія, практика, готовий результат.</text>
 </svg>

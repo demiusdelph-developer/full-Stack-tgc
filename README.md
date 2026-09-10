@@ -6,13 +6,13 @@
 
 ## Візуальна карта
 
-### Горизонтальна версія
-
-![Горизонтальна карта вивчення Full Stack](assets/full-stack-roadmap-horizontal.svg)
-
 ### Вертикальна версія
 
 ![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)
+
+### Горизонтальна версія
+
+![Горизонтальна карта вивчення Full Stack](assets/full-stack-roadmap-horizontal.svg)
 
 ## Навчальні гілки
 
