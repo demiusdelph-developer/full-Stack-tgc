@@ -8,7 +8,7 @@
 
 ### Вертикальна версія
 
-[![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)](assets/full-stack-roadmap-vertical.svg)
+[![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)](https://raw.githubusercontent.com/demiusdelph-developer/full-Stack-tgc/main/assets/full-stack-roadmap-vertical.svg)
 
 Відкрийте карту окремо, щоб перейти з її етапу до відповідної папки.
 
