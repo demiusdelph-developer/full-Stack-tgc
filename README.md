@@ -8,9 +8,9 @@
 
 ### Вертикальна версія
 
-[![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)](https://raw.githubusercontent.com/demiusdelph-developer/full-Stack-tgc/main/assets/full-stack-roadmap-vertical.svg)
+![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)
 
-Відкрийте карту окремо, щоб перейти з її етапу до відповідної папки.
+GitHub показує SVG у README як зображення, тому переходи між окремими зонами карти тут недоступні. Використовуйте навігацію за етапами нижче.
 
 ## Навчальні гілки
 
@@ -20,29 +20,33 @@
 
 ### 2. [HTML та CSS](02-html-css)
 
-### 3. [JavaScript](03-javascript)
+### 3. [Sass](sass)
 
-### 4. [TypeScript](04-typescript)
+### 4. [Tailwind CSS](tailwind)
 
-### 5. [React frontend](05-react-frontend)
+### 5. [JavaScript](03-javascript)
 
-### 6. [Node.js та backend](06-nodejs-backend)
+### 6. [TypeScript](04-typescript)
 
-### 7. [Бази даних](07-databases)
+### 7. [React frontend](05-react-frontend)
 
-### 8. [Авторизація та безпека](08-authentication-security)
+### 8. [Node.js та backend](06-nodejs-backend)
 
-### 9. [Тестування](09-testing)
+### 9. [Бази даних](07-databases)
 
-### 10. [Деплой і DevOps](10-deployment-devops)
+### 10. [Авторизація та безпека](08-authentication-security)
 
-### 11. [Портфоліо](11-portfolio)
+### 11. [Тестування](09-testing)
+
+### 12. [Деплой і DevOps](10-deployment-devops)
+
+### 13. [Портфоліо](11-portfolio)
 
 ---
 
 ## Як навчатись
 
-1. Рухайтесь за етапами від першого до одинадцятого.
+1. Рухайтесь за етапами від першого до тринадцятого.
 2. Приділяйте приблизно 70% часу практиці та 30% теорії.
 3. Після кожного етапу завершуйте готову функцію або невеликий проєкт.
 
@@ -63,6 +67,22 @@
 **Вивчити:** семантичний HTML, форми, CSS selectors, box model, Flexbox, Grid, responsive design, accessibility; Sass для модульних стилів; Tailwind CSS для utility-first інтерфейсів.
 
 **Результат:** адаптивний сайт-візитка та лендінг.
+
+### Sass
+
+**Тривалість:** 1-2 тижні
+
+**Вивчити:** SCSS, змінні, вкладені правила, mixins, `@use` і структуру стилів.
+
+**Результат:** CSS-проєкт, організований у модулі SCSS.
+
+### Tailwind CSS
+
+**Тривалість:** 1-2 тижні
+
+**Вивчити:** utility-класи, адаптивні модифікатори, states, теми та доступні компоненти.
+
+**Результат:** адаптивний інтерфейс, створений Tailwind CSS.
 
 ### JavaScript
 
