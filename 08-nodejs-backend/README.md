@@ -1,11 +1,6 @@
-# HTML та CSS
+# Node.js та Backend
 
-Вивчіть семантичний HTML, форми, box model, Flexbox, Grid, адаптивний дизайн і accessibility. Після основ CSS опануйте Sass для структури стилів і Tailwind CSS для швидкого створення інтерфейсів. Результат етапу - адаптивний сайт-візитка та лендінг.
-
-## Наступні етапи стилізації
-
-- [Sass](../03-sass) - препроцесор CSS для змінних, mixins і модульної структури.
-- [Tailwind CSS](../06-tailwind) - utility-first фреймворк для адаптивних інтерфейсів.
+Створюйте серверну частину на Node.js з Express або NestJS: REST API, middleware, валідація, логування й зрозуміла структура проєкту. Результат етапу - API для власного React-проєкту.
 
 [Переглянути розгорнутий навчальний план](https://github.com/demiusdelph-developer/full-Stack-tgc#full-stack-learning-roadmap)
 

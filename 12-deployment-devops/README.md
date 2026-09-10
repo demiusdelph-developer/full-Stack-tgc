@@ -1,11 +1,6 @@
-# HTML та CSS
+# Деплой і DevOps
 
-Вивчіть семантичний HTML, форми, box model, Flexbox, Grid, адаптивний дизайн і accessibility. Після основ CSS опануйте Sass для структури стилів і Tailwind CSS для швидкого створення інтерфейсів. Результат етапу - адаптивний сайт-візитка та лендінг.
-
-## Наступні етапи стилізації
-
-- [Sass](../03-sass) - препроцесор CSS для змінних, mixins і модульної структури.
-- [Tailwind CSS](../06-tailwind) - utility-first фреймворк для адаптивних інтерфейсів.
+Навчіться контейнеризації через Docker, автоматизації CI/CD у GitHub Actions і деплою: Vercel/Netlify для frontend, Render/Railway/Fly.io для backend та хмарний PostgreSQL. Результат етапу - повністю задеплоєний full-stack застосунок.
 
 [Переглянути розгорнутий навчальний план](https://github.com/demiusdelph-developer/full-Stack-tgc#full-stack-learning-roadmap)
 

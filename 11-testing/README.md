@@ -1,11 +1,6 @@
-# HTML та CSS
+# Тестування
 
-Вивчіть семантичний HTML, форми, box model, Flexbox, Grid, адаптивний дизайн і accessibility. Після основ CSS опануйте Sass для структури стилів і Tailwind CSS для швидкого створення інтерфейсів. Результат етапу - адаптивний сайт-візитка та лендінг.
-
-## Наступні етапи стилізації
-
-- [Sass](../03-sass) - препроцесор CSS для змінних, mixins і модульної структури.
-- [Tailwind CSS](../06-tailwind) - utility-first фреймворк для адаптивних інтерфейсів.
+Покривайте код unit-тестами через Vitest або Jest, тестуйте інтерфейс через React Testing Library, API-сценарії та базові E2E-потоки через Playwright. Результат етапу - протестовані API й ключові UI-сценарії.
 
 [Переглянути розгорнутий навчальний план](https://github.com/demiusdelph-developer/full-Stack-tgc#full-stack-learning-roadmap)
 

@@ -1,11 +1,6 @@
-# HTML та CSS
+# Портфоліо
 
-Вивчіть семантичний HTML, форми, box model, Flexbox, Grid, адаптивний дизайн і accessibility. Після основ CSS опануйте Sass для структури стилів і Tailwind CSS для швидкого створення інтерфейсів. Результат етапу - адаптивний сайт-візитка та лендінг.
-
-## Наступні етапи стилізації
-
-- [Sass](../03-sass) - препроцесор CSS для змінних, mixins і модульної структури.
-- [Tailwind CSS](../06-tailwind) - utility-first фреймворк для адаптивних інтерфейсів.
+Зберіть 2-3 якісні full-stack проєкти, оформіть README, продумайте архітектуру та UI/UX, навчіться працювати з багами й code review. Варіанти: Task Manager, E-commerce mini shop, блог або фінансовий трекер.
 
 [Переглянути розгорнутий навчальний план](https://github.com/demiusdelph-developer/full-Stack-tgc#full-stack-learning-roadmap)
 

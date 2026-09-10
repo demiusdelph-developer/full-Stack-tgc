@@ -20,27 +20,27 @@ GitHub показує SVG у README як зображення, тому пере
 
 ### 2. [HTML та CSS](02-html-css)
 
-### 3. [Sass](sass)
+### 3. [Sass](03-sass)
 
-### 4. [JavaScript](03-javascript)
+### 4. [JavaScript](04-javascript)
 
-### 5. [TypeScript](04-typescript)
+### 5. [TypeScript](05-typescript)
 
-### 6. [Tailwind CSS](tailwind)
+### 6. [Tailwind CSS](06-tailwind)
 
-### 7. [React frontend](05-react-frontend)
+### 7. [React frontend](07-react-frontend)
 
-### 8. [Node.js та backend](06-nodejs-backend)
+### 8. [Node.js та backend](08-nodejs-backend)
 
-### 9. [Бази даних](07-databases)
+### 9. [Бази даних](09-databases)
 
-### 10. [Авторизація та безпека](08-authentication-security)
+### 10. [Авторизація та безпека](10-authentication-security)
 
-### 11. [Тестування](09-testing)
+### 11. [Тестування](11-testing)
 
-### 12. [Деплой і DevOps](10-deployment-devops)
+### 12. [Деплой і DevOps](12-deployment-devops)
 
-### 13. [Портфоліо](11-portfolio)
+### 13. [Портфоліо](13-portfolio)
 
 ---
 

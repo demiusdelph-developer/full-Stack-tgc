@@ -1,11 +1,6 @@
-# HTML та CSS
+# JavaScript
 
-Вивчіть семантичний HTML, форми, box model, Flexbox, Grid, адаптивний дизайн і accessibility. Після основ CSS опануйте Sass для структури стилів і Tailwind CSS для швидкого створення інтерфейсів. Результат етапу - адаптивний сайт-візитка та лендінг.
-
-## Наступні етапи стилізації
-
-- [Sass](../03-sass) - препроцесор CSS для змінних, mixins і модульної структури.
-- [Tailwind CSS](../06-tailwind) - utility-first фреймворк для адаптивних інтерфейсів.
+Освойте типи даних, функції, масиви, об'єкти, DOM, події, модулі, Promise, async/await, `fetch` і обробку помилок. Результат етапу - To-do app та застосунок погоди, що працює з API.
 
 [Переглянути розгорнутий навчальний план](https://github.com/demiusdelph-developer/full-Stack-tgc#full-stack-learning-roadmap)
 
