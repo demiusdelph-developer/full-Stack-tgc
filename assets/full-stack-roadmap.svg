@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1770" viewBox="0 0 860 1770" role="img" aria-labelledby="title description">
+  <title id="title">Full Stack Learning Roadmap</title>
+  <desc id="description">Thirteen sequential stages from development foundations to portfolio.</desc>
+  <style>
+    .title { font: 700 36px sans-serif; fill: #142235; }
+    .subtitle { font: 400 18px sans-serif; fill: #526477; }
+    .number { font: 700 18px sans-serif; fill: #ffffff; }
+    .name { font: 700 22px sans-serif; fill: #142235; }
+    .detail { font: 400 16px sans-serif; fill: #526477; }
+    .line { stroke: #b5c5d4; stroke-width: 4; }
+    .card { fill: #ffffff; stroke: #c9d6e2; stroke-width: 1; }
+    .final { fill: #142235; stroke: #142235; }
+    .final-name { font: 700 22px sans-serif; fill: #ffffff; }
+    .final-detail { font: 400 16px sans-serif; fill: #dbe7f0; }
+    @media (prefers-color-scheme: dark) {
+      .canvas { fill: #101922; }
+      .banner { fill: #123f42; }
+      .title, .name { fill: #f1f5f9; }
+      .subtitle, .detail { fill: #b7c8d7; }
+      .line { stroke: #496075; }
+      .card { fill: #1d2a38; stroke: #41566a; }
+      .final { fill: #0f2437; stroke: #34536b; }
+    }
+  </style>
+  <rect class="canvas" width="860" height="1770" fill="#f7fafc"/>
+  <rect class="banner" width="860" height="170" fill="#d9f3ed"/>
+  <text x="65" y="75" class="title">Full Stack Learning Roadmap</text>
+  <text x="65" y="110" class="subtitle">13 етапів від основ вебу до власного портфоліо</text>
+  <line x1="115" y1="220" x2="115" y2="1610" class="line"/>
+
+  <g transform="translate(65 190)"><circle cx="50" cy="50" r="31" fill="#0f766e"/><text x="50" y="57" text-anchor="middle" class="number">1</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Основи розробки</text><text x="130" y="68" class="detail">Веб, Git, GitHub, VS Code · 2-3 тижні</text></g>
+  <g transform="translate(65 305)"><circle cx="50" cy="50" r="31" fill="#ea580c"/><text x="50" y="57" text-anchor="middle" class="number">2</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">HTML та CSS</text><text x="130" y="68" class="detail">Семантика, Flexbox, Grid, адаптивність · 4-6 тижнів</text></g>
+  <g transform="translate(65 420)"><circle cx="50" cy="50" r="31" fill="#cc6699"/><text x="50" y="57" text-anchor="middle" class="number">3</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Sass</text><text x="130" y="68" class="detail">SCSS, змінні, mixins, модулі · 1-2 тижні</text></g>
+  <g transform="translate(65 535)"><circle cx="50" cy="50" r="31" fill="#eab308"/><text x="50" y="57" text-anchor="middle" class="number">4</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">JavaScript</text><text x="130" y="68" class="detail">DOM, async/await, API, модулі · 8-10 тижнів</text></g>
+  <g transform="translate(65 650)"><circle cx="50" cy="50" r="31" fill="#2563eb"/><text x="50" y="57" text-anchor="middle" class="number">5</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">TypeScript</text><text x="130" y="68" class="detail">Типи, interfaces, generics · 2-3 тижні</text></g>
+  <g transform="translate(65 765)"><circle cx="50" cy="50" r="31" fill="#38bdf8"/><text x="50" y="57" text-anchor="middle" class="number">6</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Tailwind CSS</text><text x="130" y="68" class="detail">Utility-класи, responsive, теми · 1-2 тижні</text></g>
+  <g transform="translate(65 880)"><circle cx="50" cy="50" r="31" fill="#db2777"/><text x="50" y="57" text-anchor="middle" class="number">7</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">React frontend</text><text x="130" y="68" class="detail">Компоненти, hooks, routing, запити · 6-8 тижнів</text></g>
+  <g transform="translate(65 995)"><circle cx="50" cy="50" r="31" fill="#16a34a"/><text x="50" y="57" text-anchor="middle" class="number">8</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Node.js та backend</text><text x="130" y="68" class="detail">REST API, middleware, validation · 6-8 тижнів</text></g>
+  <g transform="translate(65 1110)"><circle cx="50" cy="50" r="31" fill="#0891b2"/><text x="50" y="57" text-anchor="middle" class="number">9</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Бази даних</text><text x="130" y="68" class="detail">SQL, PostgreSQL, ORM, migrations · 4-5 тижнів</text></g>
+  <g transform="translate(65 1225)"><circle cx="50" cy="50" r="31" fill="#dc2626"/><text x="50" y="57" text-anchor="middle" class="number">10</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Авторизація та безпека</text><text x="130" y="68" class="detail">JWT, cookies, roles, CORS · 3-4 тижні</text></g>
+  <g transform="translate(65 1340)"><circle cx="50" cy="50" r="31" fill="#7c3aed"/><text x="50" y="57" text-anchor="middle" class="number">11</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Тестування</text><text x="130" y="68" class="detail">Unit, API, UI та E2E тести · 3-4 тижні</text></g>
+  <g transform="translate(65 1455)"><circle cx="50" cy="50" r="31" fill="#475569"/><text x="50" y="57" text-anchor="middle" class="number">12</text><rect class="card" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="name">Деплой і DevOps</text><text x="130" y="68" class="detail">Docker, CI/CD, хмарний деплой · 2-3 тижні</text></g>
+  <g transform="translate(65 1570)"><circle cx="50" cy="50" r="31" fill="#f59e0b"/><text x="50" y="57" text-anchor="middle" class="number">13</text><rect class="final" x="100" width="625" height="95" rx="8"/><text x="130" y="39" class="final-name">Портфоліо</text><text x="130" y="68" class="final-detail">2-3 якісні проєкти · 4-8 тижнів</text></g>
+</svg>

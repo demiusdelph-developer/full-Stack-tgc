@@ -8,7 +8,7 @@
 
 ### Вертикальна версія
 
-![Вертикальна карта вивчення Full Stack](assets/full-stack-roadmap-vertical.svg)
+![Карта вивчення Full Stack](assets/full-stack-roadmap.svg)
 
 GitHub показує SVG у README як зображення, тому переходи між окремими зонами карти тут недоступні. Використовуйте навігацію за етапами нижче.
 
